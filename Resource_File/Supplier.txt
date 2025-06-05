@@ -1,0 +1,10 @@
+S001|Aquatronix|aqt@gmail.com|012-3456789|948, Jalan Pasar, Kawasan 5, 43300 Seri Kembangan, Selangor|PD0001,PD0002
+S002|ElectroTech|electrotech@gmail.com|019-2233445|15, Jalan Teknologi, Taman Universiti, 81300 Skudai, Johor|PD0003,PD0004
+S003|Maxtronics|maxtronics@gmail.com|013-9988776|22, Jalan Pudu, Taman Pudu Ulu, 56100 Kuala Lumpur|PD0005,PD0006
+S004|NanoWare|nanoware@gmail.com|011-8765432|99, Lorong Perindustrian, Kawasan Perindustrian, 75400 Melaka|PD0007,PD0008
+S005|CyberGadgets|cybergadgets@gmail.com|018-1122334|7, Jalan Kenanga, Taman Seraya, 68000 Ampang, Selangor|PD0009,PD0010
+S006|GigaTeks|gigateks@gmail.com|014-7788990|42, Jalan Meru, 41050 Klang, Selangor|PD0011,PD0012
+S007|Protonix|protonix@gmail.com|016-5566778|5, Jalan Kota, 42700 Banting, Selangor|PD0013
+S008|HyperElectro|hyperelectro@gmail.com|017-3344556|10, Jalan Cerdas, Taman Connaught, 56000 Cheras, Kuala Lumpur|PD0014,PD0015
+S009|ZetaSolutions|zetasolutions@gmail.com|012-5566778|77, Jalan Dato' Bandar, 84000 Muar, Johor|PD0016
+S010|MicroLogic|micrologic@gmail.com|019-6677889|12, Jalan Merbok, Taman Maju, 34000 Taiping, Perak|PD0017,PD0018

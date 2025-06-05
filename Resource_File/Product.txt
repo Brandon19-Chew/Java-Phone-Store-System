@@ -1,0 +1,18 @@
+PD0001|Earphone case|10.12
+PD0002|Screen Protector|25.59
+PD0003|Wireless Charger|85.15
+PD0004|Phone Case|30.1
+PD0005|Car Mount|50.15
+PD0006|USB-C Cable|15.6
+PD0007|Power Bank|120.5
+PD0008|Bluetooth Earbuds|150.25
+PD0009|Phone Stand|20.8
+PD0010|PopSocket|10.0
+PD0011|Fast Charging Adapter|45.13
+PD0012|MagSafe Charger|99.99
+PD0013|Stylus Pen|60.09
+PD0014|Camera Lens Kit|75.16
+PD0015|Selfie Stick|35.88
+PD0016|Memory Card (128GB)|80.65
+PD0017|Headphone Splitter|18.0
+PD0018|Wireless Earphones|160.22

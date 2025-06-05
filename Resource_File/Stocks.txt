@@ -1,0 +1,12 @@
+Power bank|A1001|Power Core 10000 mAh|300
+Power bank|A1050|Mi Power Bank 10000 mAh|532
+Power bank|A1200|Syntax Solution 15000 mAh|70
+Phone case|B2001|Tough Armor Case (IPhone)|120
+Phone case|B2100|Defender Series (Samsung)|85
+Phone csae|B2500|Caselogy (Google Pixel)|90
+Earphone|C3005|Sony WF-1000XM4|70
+Earphone|C3500|JBL X Wireless|100
+Cable charger|D4002|PowerLine+ USB-C to USB-C|200
+Cable charger|D4500|USB-A to USB-C Cable|180
+Cable charger|D4100|Lightning to USB A Cable|250
+Cable charger|D4705|USB-C to USB-C Cable|130
